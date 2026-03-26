@@ -1,0 +1,106 @@
+admission_id,patient_id,admission_date,discharge_date,los_days,admission_type,discharge_disposition,readmitted_30day,readmitted_90day,primary_drg_code,department,icu_stay,attending_specialty,is_readmission
+ADM001,P001,2023-01-05,2023-01-12,7,Emergency,Home with Home Health,Yes,Yes,291,Cardiology,Yes,Cardiology,No
+ADM002,P001,2023-01-28,2023-02-03,6,Emergency,Skilled Nursing Facility,No,No,291,Cardiology,No,Cardiology,Yes
+ADM003,P002,2023-01-08,2023-01-16,8,Emergency,Skilled Nursing Facility,Yes,Yes,291,Cardiology,Yes,Cardiology,No
+ADM004,P002,2023-01-30,2023-02-06,7,Emergency,Home with Home Health,No,No,291,Cardiology,Yes,Cardiology,Yes
+ADM005,P003,2023-01-10,2023-01-17,7,Emergency,Home with Home Health,Yes,Yes,291,Cardiology,No,Cardiology,No
+ADM006,P003,2023-01-29,2023-02-04,6,Urgent,Home,No,No,291,Cardiology,No,Cardiology,Yes
+ADM007,P004,2023-02-01,2023-02-07,6,Emergency,Home,No,No,291,Cardiology,No,Cardiology,No
+ADM008,P005,2023-02-03,2023-02-13,10,Emergency,Skilled Nursing Facility,Yes,Yes,291,Cardiology,Yes,Cardiology,No
+ADM009,P005,2023-02-28,2023-03-07,7,Emergency,Hospice,No,No,291,Cardiology,Yes,Cardiology,Yes
+ADM010,P006,2023-02-05,2023-02-12,7,Emergency,Home with Home Health,No,Yes,291,Cardiology,No,Cardiology,No
+ADM011,P007,2023-02-08,2023-02-13,5,Elective,Home,No,No,291,Cardiology,No,Cardiology,No
+ADM012,P008,2023-02-10,2023-02-19,9,Emergency,Skilled Nursing Facility,Yes,Yes,291,Cardiology,Yes,Cardiology,No
+ADM013,P008,2023-03-05,2023-03-11,6,Emergency,Skilled Nursing Facility,No,No,291,Cardiology,No,Cardiology,Yes
+ADM014,P009,2023-02-12,2023-02-24,12,Emergency,Skilled Nursing Facility,Yes,Yes,291,Cardiology,Yes,Cardiology,No
+ADM015,P009,2023-03-06,2023-03-14,8,Emergency,Hospice,No,No,291,Cardiology,Yes,Cardiology,Yes
+ADM016,P010,2023-02-15,2023-02-21,6,Emergency,Home,No,No,291,Cardiology,No,Cardiology,No
+ADM017,P011,2023-03-01,2023-03-07,6,Emergency,Home,No,Yes,192,Pulmonology,No,Pulmonology,No
+ADM018,P012,2023-03-03,2023-03-10,7,Emergency,Home with Home Health,Yes,Yes,192,Pulmonology,No,Pulmonology,No
+ADM019,P012,2023-03-28,2023-04-03,6,Emergency,Skilled Nursing Facility,No,No,192,Pulmonology,No,Pulmonology,Yes
+ADM020,P013,2023-03-05,2023-03-10,5,Emergency,Home,No,No,192,Pulmonology,No,Pulmonology,No
+ADM021,P014,2023-03-07,2023-03-16,9,Emergency,Skilled Nursing Facility,Yes,Yes,192,Pulmonology,Yes,Pulmonology,No
+ADM022,P014,2023-04-01,2023-04-08,7,Emergency,Home with Home Health,No,No,192,Pulmonology,No,Pulmonology,Yes
+ADM023,P015,2023-03-10,2023-03-14,4,Elective,Home,No,No,192,Pulmonology,No,Pulmonology,No
+ADM024,P016,2023-03-12,2023-03-19,7,Emergency,Home,No,No,192,Pulmonology,No,Pulmonology,No
+ADM025,P017,2023-03-15,2023-03-22,7,Emergency,Home with Home Health,No,Yes,192,Pulmonology,No,Pulmonology,No
+ADM026,P018,2023-03-18,2023-03-29,11,Emergency,Skilled Nursing Facility,Yes,Yes,192,Pulmonology,Yes,Pulmonology,No
+ADM027,P018,2023-04-12,2023-04-19,7,Emergency,Hospice,No,No,192,Pulmonology,Yes,Pulmonology,Yes
+ADM028,P019,2023-03-20,2023-03-25,5,Emergency,Home,No,No,192,Pulmonology,No,Pulmonology,No
+ADM029,P020,2023-03-22,2023-03-29,7,Emergency,Home,No,No,192,Pulmonology,No,Pulmonology,No
+ADM030,P021,2023-04-01,2023-04-07,6,Emergency,Home with Home Health,No,Yes,193,Medicine,No,Hospitalist,No
+ADM031,P022,2023-04-03,2023-04-07,4,Emergency,Home,No,No,193,Medicine,No,Hospitalist,No
+ADM032,P023,2023-04-05,2023-04-11,6,Emergency,Home,No,No,193,Medicine,No,Hospitalist,No
+ADM033,P024,2023-04-08,2023-04-18,10,Emergency,Skilled Nursing Facility,Yes,Yes,193,Medicine,Yes,Hospitalist,No
+ADM034,P024,2023-05-02,2023-05-09,7,Emergency,Hospice,No,No,193,Medicine,No,Hospitalist,Yes
+ADM035,P025,2023-04-10,2023-04-13,3,Emergency,Home,No,No,193,Medicine,No,Hospitalist,No
+ADM036,P026,2023-04-12,2023-04-19,7,Emergency,Home with Home Health,No,No,193,Medicine,No,Hospitalist,No
+ADM037,P027,2023-04-15,2023-04-21,6,Emergency,Home,Yes,Yes,193,Medicine,No,Hospitalist,No
+ADM038,P027,2023-05-05,2023-05-11,6,Emergency,Home,No,No,193,Medicine,No,Hospitalist,Yes
+ADM039,P028,2023-04-18,2023-04-29,11,Emergency,Skilled Nursing Facility,Yes,Yes,193,Medicine,Yes,Hospitalist,No
+ADM040,P028,2023-05-12,2023-05-19,7,Emergency,Skilled Nursing Facility,No,No,193,Medicine,No,Hospitalist,Yes
+ADM041,P029,2023-04-20,2023-04-24,4,Emergency,Home,No,No,193,Medicine,No,Hospitalist,No
+ADM042,P030,2023-04-22,2023-04-29,7,Emergency,Home,No,No,193,Medicine,No,Hospitalist,No
+ADM043,P031,2023-05-01,2023-05-05,4,Emergency,Home,No,No,280,Cardiology,Yes,Cardiology,No
+ADM044,P032,2023-05-03,2023-05-09,6,Emergency,Home with Home Health,No,Yes,280,Cardiology,Yes,Cardiology,No
+ADM045,P033,2023-05-05,2023-05-08,3,Emergency,Home,No,No,280,Cardiology,Yes,Cardiology,No
+ADM046,P034,2023-05-07,2023-05-15,8,Emergency,Skilled Nursing Facility,Yes,Yes,280,Cardiology,Yes,Cardiology,No
+ADM047,P034,2023-05-28,2023-06-04,7,Emergency,Skilled Nursing Facility,No,No,280,Cardiology,No,Cardiology,Yes
+ADM048,P035,2023-05-09,2023-05-14,5,Emergency,Home,No,No,280,Cardiology,Yes,Cardiology,No
+ADM049,P036,2023-05-11,2023-05-17,6,Emergency,Home with Home Health,No,No,280,Cardiology,No,Cardiology,No
+ADM050,P037,2023-05-13,2023-05-16,3,Emergency,Home,No,No,280,Cardiology,Yes,Cardiology,No
+ADM051,P038,2023-05-15,2023-05-23,8,Emergency,Skilled Nursing Facility,Yes,Yes,280,Cardiology,Yes,Cardiology,No
+ADM052,P038,2023-06-06,2023-06-13,7,Emergency,Home with Home Health,No,No,280,Cardiology,No,Cardiology,Yes
+ADM053,P039,2023-05-17,2023-05-21,4,Emergency,Home,No,No,280,Cardiology,Yes,Cardiology,No
+ADM054,P040,2023-05-19,2023-05-30,11,Emergency,Skilled Nursing Facility,Yes,Yes,280,Cardiology,Yes,Cardiology,No
+ADM055,P040,2023-06-13,2023-06-20,7,Emergency,Hospice,No,No,280,Cardiology,Yes,Cardiology,Yes
+ADM056,P041,2023-06-01,2023-06-08,7,Emergency,Home with Home Health,Yes,Yes,870,Medicine,Yes,Hospitalist,No
+ADM057,P041,2023-06-22,2023-06-29,7,Emergency,Home,No,No,870,Medicine,No,Hospitalist,Yes
+ADM058,P042,2023-06-03,2023-06-11,8,Emergency,Home,No,Yes,870,Medicine,Yes,Hospitalist,No
+ADM059,P043,2023-06-05,2023-06-17,12,Emergency,Skilled Nursing Facility,Yes,Yes,870,Medicine,Yes,Hospitalist,No
+ADM060,P043,2023-07-01,2023-07-08,7,Emergency,Hospice,No,No,870,Medicine,Yes,Hospitalist,Yes
+ADM061,P044,2023-06-07,2023-06-13,6,Emergency,Home,No,No,870,Medicine,No,Hospitalist,No
+ADM062,P045,2023-06-09,2023-06-14,5,Emergency,Home,No,No,870,Medicine,Yes,Hospitalist,No
+ADM063,P046,2023-06-11,2023-06-20,9,Emergency,Skilled Nursing Facility,Yes,Yes,870,Medicine,Yes,Hospitalist,No
+ADM064,P046,2023-07-05,2023-07-12,7,Emergency,Home with Home Health,No,No,870,Medicine,No,Hospitalist,Yes
+ADM065,P047,2023-06-13,2023-06-18,5,Emergency,Home,No,No,870,Medicine,No,Hospitalist,No
+ADM066,P048,2023-06-15,2023-06-28,13,Emergency,Skilled Nursing Facility,Yes,Yes,870,Medicine,Yes,Hospitalist,No
+ADM067,P048,2023-07-09,2023-07-16,7,Emergency,Hospice,No,No,870,Medicine,Yes,Hospitalist,Yes
+ADM068,P049,2023-06-17,2023-06-21,4,Emergency,Home,No,No,870,Medicine,No,Hospitalist,No
+ADM069,P050,2023-06-19,2023-06-26,7,Emergency,Home with Home Health,No,No,870,Medicine,No,Hospitalist,No
+ADM070,P051,2023-07-01,2023-07-07,6,Emergency,Home,No,Yes,637,Medicine,No,Endocrinology,No
+ADM071,P052,2023-07-03,2023-07-10,7,Emergency,Home,Yes,Yes,637,Medicine,No,Endocrinology,No
+ADM072,P052,2023-07-25,2023-07-31,6,Emergency,Home,No,No,637,Medicine,No,Endocrinology,Yes
+ADM073,P053,2023-07-05,2023-07-13,8,Emergency,Home with Home Health,No,Yes,637,Medicine,No,Endocrinology,No
+ADM074,P054,2023-07-07,2023-07-12,5,Emergency,Home,No,No,637,Medicine,No,Endocrinology,No
+ADM075,P055,2023-07-09,2023-07-18,9,Emergency,Skilled Nursing Facility,Yes,Yes,637,Medicine,No,Endocrinology,No
+ADM076,P055,2023-08-02,2023-08-09,7,Emergency,Home with Home Health,No,No,637,Medicine,No,Endocrinology,Yes
+ADM077,P056,2023-07-11,2023-07-15,4,Emergency,Home,No,No,637,Medicine,No,Endocrinology,No
+ADM078,P057,2023-07-13,2023-07-20,7,Emergency,Home,No,No,637,Medicine,No,Endocrinology,No
+ADM079,P058,2023-07-15,2023-07-23,8,Emergency,Home with Home Health,No,Yes,637,Medicine,No,Endocrinology,No
+ADM080,P059,2023-07-17,2023-07-23,6,Emergency,Home,No,No,637,Medicine,No,Endocrinology,No
+ADM081,P060,2023-07-19,2023-07-30,11,Emergency,Skilled Nursing Facility,Yes,Yes,637,Medicine,No,Endocrinology,No
+ADM082,P060,2023-08-13,2023-08-20,7,Emergency,Skilled Nursing Facility,No,No,637,Medicine,No,Endocrinology,Yes
+ADM083,P061,2023-08-01,2023-08-11,10,Emergency,Skilled Nursing Facility,No,Yes,61,Neurology,No,Neurology,No
+ADM084,P062,2023-08-03,2023-08-11,8,Emergency,Home with Home Health,No,No,61,Neurology,No,Neurology,No
+ADM085,P063,2023-08-05,2023-08-17,12,Emergency,Skilled Nursing Facility,Yes,Yes,61,Neurology,No,Neurology,No
+ADM086,P063,2023-08-30,2023-09-06,7,Emergency,Skilled Nursing Facility,No,No,61,Neurology,No,Neurology,Yes
+ADM087,P064,2023-08-07,2023-08-14,7,Emergency,Home,No,No,61,Neurology,No,Neurology,No
+ADM088,P065,2023-08-09,2023-08-17,8,Emergency,Home with Home Health,No,No,61,Neurology,No,Neurology,No
+ADM089,P066,2023-08-11,2023-08-17,6,Emergency,Home,No,No,61,Neurology,No,Neurology,No
+ADM090,P067,2023-08-13,2023-08-26,13,Emergency,Skilled Nursing Facility,Yes,Yes,61,Neurology,No,Neurology,No
+ADM091,P067,2023-09-07,2023-09-14,7,Emergency,Hospice,No,No,61,Neurology,No,Neurology,Yes
+ADM092,P068,2023-08-15,2023-08-24,9,Emergency,Home with Home Health,No,No,61,Neurology,No,Neurology,No
+ADM093,P069,2023-09-01,2023-09-04,3,Elective,Home,No,No,470,Orthopedics,No,Orthopedics,No
+ADM094,P070,2023-09-03,2023-09-06,3,Elective,Home,No,No,470,Orthopedics,No,Orthopedics,No
+ADM095,P071,2023-09-05,2023-09-09,4,Elective,Home with Home Health,No,No,470,Orthopedics,No,Orthopedics,No
+ADM096,P072,2023-09-07,2023-09-12,5,Elective,Home with Home Health,No,No,470,Orthopedics,No,Orthopedics,No
+ADM097,P073,2023-09-09,2023-09-12,3,Elective,Home,No,No,470,Orthopedics,No,Orthopedics,No
+ADM098,P074,2023-09-11,2023-09-15,4,Elective,Home with Home Health,No,No,470,Orthopedics,No,Orthopedics,No
+ADM099,P075,2023-09-13,2023-09-18,5,Elective,Home,No,No,470,Orthopedics,No,Orthopedics,No
+ADM100,P076,2023-09-15,2023-09-21,6,Elective,Skilled Nursing Facility,Yes,Yes,470,Orthopedics,No,Orthopedics,No
+ADM101,P076,2023-10-05,2023-10-11,6,Emergency,Home with Home Health,No,No,470,Orthopedics,No,Orthopedics,Yes
+ADM102,P077,2023-09-17,2023-09-20,3,Elective,Home,No,No,470,Orthopedics,No,Orthopedics,No
+ADM103,P078,2023-09-19,2023-09-23,4,Elective,Home,No,No,470,Orthopedics,No,Orthopedics,No
+ADM104,P079,2023-09-21,2023-09-26,5,Elective,Home with Home Health,No,No,470,Orthopedics,No,Orthopedics,No
+ADM105,P080,2023-09-23,2023-09-29,6,Elective,Home,No,No,470,Orthopedics,No,Orthopedics,No

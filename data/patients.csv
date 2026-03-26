@@ -1,0 +1,81 @@
+patient_id,age,gender,race,ethnicity,insurance_type,primary_diagnosis_category,icd10_primary,charlson_comorbidity_index,comorbidity_count,hospital_id
+P001,78,Male,White,Non-Hispanic,Medicare,Heart Failure,I50.9,6,5,H01
+P002,82,Female,White,Non-Hispanic,Medicare,Heart Failure,I50.32,7,6,H01
+P003,74,Male,Black,Non-Hispanic,Medicare,Heart Failure,I50.9,5,4,H01
+P004,69,Female,Hispanic,Hispanic,Medicaid,Heart Failure,I50.1,4,4,H02
+P005,85,Male,White,Non-Hispanic,Medicare,Heart Failure,I50.9,8,7,H01
+P006,71,Female,Black,Non-Hispanic,Medicare,Heart Failure,I50.32,5,5,H02
+P007,66,Male,Asian,Non-Hispanic,Commercial,Heart Failure,I50.9,3,3,H01
+P008,79,Female,White,Non-Hispanic,Medicare,Heart Failure,I50.1,6,5,H03
+P009,88,Male,White,Non-Hispanic,Medicare,Heart Failure,I50.9,9,7,H01
+P010,73,Female,Black,Non-Hispanic,Medicaid,Heart Failure,I50.32,5,4,H02
+P011,67,Male,White,Non-Hispanic,Medicare,COPD,J44.1,4,4,H01
+P012,72,Female,White,Non-Hispanic,Medicare,COPD,J44.1,5,4,H02
+P013,65,Male,Hispanic,Hispanic,Medicaid,COPD,J44.0,3,3,H02
+P014,80,Female,Black,Non-Hispanic,Medicare,COPD,J44.1,6,5,H01
+P015,58,Male,White,Non-Hispanic,Commercial,COPD,J44.0,2,2,H03
+P016,76,Female,White,Non-Hispanic,Medicare,COPD,J44.1,5,4,H01
+P017,69,Male,Black,Non-Hispanic,Medicare,COPD,J44.1,4,4,H02
+P018,83,Female,White,Non-Hispanic,Medicare,COPD,J44.1,7,6,H01
+P019,61,Male,Hispanic,Hispanic,Medicaid,COPD,J44.0,2,3,H03
+P020,74,Female,White,Non-Hispanic,Medicare,COPD,J44.1,5,4,H01
+P021,70,Male,White,Non-Hispanic,Medicare,Pneumonia,J18.9,4,4,H01
+P022,55,Female,Black,Non-Hispanic,Commercial,Pneumonia,J18.9,1,2,H02
+P023,68,Male,Hispanic,Hispanic,Medicaid,Pneumonia,J18.9,3,3,H02
+P024,82,Female,White,Non-Hispanic,Medicare,Pneumonia,J18.9,6,5,H01
+P025,45,Male,Asian,Non-Hispanic,Commercial,Pneumonia,J18.9,0,1,H03
+P026,77,Female,White,Non-Hispanic,Medicare,Pneumonia,J18.9,5,4,H01
+P027,63,Male,Black,Non-Hispanic,Medicaid,Pneumonia,J18.9,2,3,H02
+P028,85,Female,White,Non-Hispanic,Medicare,Pneumonia,J18.9,7,6,H01
+P029,59,Male,White,Non-Hispanic,Commercial,Pneumonia,J18.9,1,2,H03
+P030,71,Female,Hispanic,Hispanic,Medicaid,Pneumonia,J18.9,4,4,H01
+P031,64,Male,White,Non-Hispanic,Commercial,AMI,I21.9,3,3,H01
+P032,72,Female,Black,Non-Hispanic,Medicare,AMI,I21.9,5,4,H02
+P033,58,Male,White,Non-Hispanic,Commercial,AMI,I21.9,2,2,H01
+P034,80,Female,White,Non-Hispanic,Medicare,AMI,I21.9,6,5,H03
+P035,67,Male,Hispanic,Hispanic,Medicaid,AMI,I21.9,4,4,H02
+P036,75,Female,White,Non-Hispanic,Medicare,AMI,I21.9,5,4,H01
+P037,53,Male,Asian,Non-Hispanic,Commercial,AMI,I21.9,1,2,H01
+P038,78,Female,Black,Non-Hispanic,Medicare,AMI,I21.9,6,5,H02
+P039,62,Male,White,Non-Hispanic,Commercial,AMI,I21.9,2,3,H03
+P040,84,Female,White,Non-Hispanic,Medicare,AMI,I21.9,7,6,H01
+P041,66,Male,White,Non-Hispanic,Medicare,Sepsis,A41.9,4,4,H01
+P042,74,Female,Black,Non-Hispanic,Medicaid,Sepsis,A41.9,5,5,H02
+P043,81,Male,White,Non-Hispanic,Medicare,Sepsis,A41.9,7,6,H01
+P044,58,Female,Hispanic,Hispanic,Medicaid,Sepsis,A41.9,3,3,H02
+P045,69,Male,White,Non-Hispanic,Commercial,Sepsis,A41.9,3,3,H03
+P046,76,Female,Black,Non-Hispanic,Medicare,Sepsis,A41.9,6,5,H01
+P047,63,Male,White,Non-Hispanic,Commercial,Sepsis,A41.9,2,3,H01
+P048,88,Female,White,Non-Hispanic,Medicare,Sepsis,A41.9,9,8,H03
+P049,55,Male,Asian,Non-Hispanic,Commercial,Sepsis,A41.9,1,2,H01
+P050,72,Female,White,Non-Hispanic,Medicare,Sepsis,A41.9,5,4,H02
+P051,61,Male,Hispanic,Hispanic,Medicaid,Diabetes,E11.65,3,4,H02
+P052,67,Female,Black,Non-Hispanic,Medicaid,Diabetes,E11.65,4,4,H01
+P053,74,Male,White,Non-Hispanic,Medicare,Diabetes,E11.65,5,5,H01
+P054,58,Female,Hispanic,Hispanic,Medicaid,Diabetes,E11.65,2,3,H02
+P055,80,Male,White,Non-Hispanic,Medicare,Diabetes,E11.65,6,5,H03
+P056,52,Female,Black,Non-Hispanic,Commercial,Diabetes,E11.9,1,2,H01
+P057,69,Male,White,Non-Hispanic,Medicare,Diabetes,E11.65,4,4,H02
+P058,76,Female,Black,Non-Hispanic,Medicare,Diabetes,E11.65,5,5,H01
+P059,63,Male,Hispanic,Hispanic,Medicaid,Diabetes,E11.65,3,4,H02
+P060,84,Female,White,Non-Hispanic,Medicare,Diabetes,E11.65,7,6,H01
+P061,72,Male,White,Non-Hispanic,Medicare,Stroke,I63.9,5,5,H01
+P062,68,Female,Black,Non-Hispanic,Medicare,Stroke,I63.9,4,4,H02
+P063,80,Male,White,Non-Hispanic,Medicare,Stroke,I63.9,6,5,H01
+P064,65,Female,Hispanic,Hispanic,Medicaid,Stroke,I63.9,3,3,H02
+P065,77,Male,White,Non-Hispanic,Medicare,Stroke,I63.9,5,4,H03
+P066,59,Female,Black,Non-Hispanic,Medicaid,Stroke,I63.9,2,3,H01
+P067,83,Male,White,Non-Hispanic,Medicare,Stroke,I63.9,7,6,H01
+P068,71,Female,White,Non-Hispanic,Medicare,Stroke,I63.9,5,4,H02
+P069,62,Male,Asian,Non-Hispanic,Commercial,Hip/Knee Replacement,Z96.641,1,1,H01
+P070,58,Female,White,Non-Hispanic,Commercial,Hip/Knee Replacement,Z96.641,0,1,H03
+P071,67,Male,White,Non-Hispanic,Medicare,Hip/Knee Replacement,Z96.641,2,2,H01
+P072,73,Female,Black,Non-Hispanic,Medicare,Hip/Knee Replacement,Z96.641,3,2,H02
+P073,55,Male,White,Non-Hispanic,Commercial,Hip/Knee Replacement,Z96.641,0,1,H01
+P074,70,Female,White,Non-Hispanic,Medicare,Hip/Knee Replacement,Z96.641,2,2,H03
+P075,61,Male,Hispanic,Hispanic,Medicaid,Hip/Knee Replacement,Z96.641,1,2,H02
+P076,78,Female,White,Non-Hispanic,Medicare,Hip/Knee Replacement,Z96.641,4,3,H01
+P077,64,Male,Asian,Non-Hispanic,Commercial,Hip/Knee Replacement,Z96.641,1,1,H01
+P078,69,Female,White,Non-Hispanic,Commercial,Hip/Knee Replacement,Z96.641,1,2,H02
+P079,74,Male,White,Non-Hispanic,Medicare,Hip/Knee Replacement,Z96.641,3,2,H03
+P080,66,Female,Black,Non-Hispanic,Medicaid,Hip/Knee Replacement,Z96.641,2,2,H01

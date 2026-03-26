@@ -1,0 +1,81 @@
+patient_id,housing_stability,food_security_status,transportation_barrier,social_support_score,income_bracket,education_level,employment_status,health_literacy_score,mental_health_diagnosis,substance_use_disorder,area_deprivation_index,zip_code,sdoh_risk_score
+P001,Unstable,Insecure,Yes,3,Low,High School,Retired,4,Yes,No,82,10452,8
+P002,Unstable,Very Insecure,Yes,2,Low,Less than HS,Retired,3,Yes,No,88,10456,9
+P003,Unstable,Insecure,Yes,4,Low,High School,Retired,4,Yes,Yes,79,10451,8
+P004,Homeless,Very Insecure,Yes,1,Low,Less than HS,Unemployed,2,Yes,Yes,91,10455,10
+P005,Unstable,Insecure,Yes,2,Low,High School,Retired,3,Yes,No,85,10454,9
+P006,Stable,Insecure,No,5,Middle,Some College,Retired,6,No,No,64,10458,5
+P007,Stable,Secure,No,7,High,College,Retired,8,No,No,32,10471,2
+P008,Unstable,Insecure,Yes,3,Low,High School,Retired,4,Yes,No,81,10460,8
+P009,Unstable,Very Insecure,Yes,2,Low,Less than HS,Retired,2,Yes,Yes,90,10456,10
+P010,Stable,Insecure,Yes,5,Middle,Some College,Retired,5,No,No,68,10461,5
+P011,Stable,Secure,No,6,Middle,Some College,Retired,6,No,No,55,10462,4
+P012,Unstable,Insecure,Yes,4,Low,High School,Retired,4,Yes,No,76,10453,7
+P013,Homeless,Very Insecure,Yes,1,Low,Less than HS,Unemployed,2,Yes,Yes,89,10455,10
+P014,Unstable,Insecure,Yes,3,Low,High School,Retired,4,Yes,No,80,10454,8
+P015,Stable,Secure,No,8,High,College,Employed,9,No,No,28,10471,1
+P016,Stable,Secure,No,7,Middle,College,Retired,7,No,No,42,10463,2
+P017,Stable,Insecure,No,5,Middle,Some College,Retired,5,No,No,61,10460,4
+P018,Unstable,Insecure,Yes,3,Low,High School,Retired,3,Yes,No,84,10456,8
+P019,Stable,Secure,No,7,Middle,Some College,Employed,7,No,No,45,10464,2
+P020,Stable,Secure,No,6,Middle,College,Retired,7,No,No,38,10471,2
+P021,Stable,Secure,No,7,Middle,Some College,Retired,7,No,No,44,10462,2
+P022,Stable,Secure,No,8,High,College,Employed,9,No,No,22,10471,1
+P023,Stable,Insecure,Yes,5,Middle,Some College,Employed,5,No,No,58,10461,4
+P024,Unstable,Insecure,Yes,3,Low,High School,Retired,4,Yes,No,79,10454,8
+P025,Stable,Secure,No,9,High,Graduate,Employed,10,No,No,18,10471,1
+P026,Stable,Secure,No,7,Middle,College,Retired,8,No,No,36,10463,2
+P027,Unstable,Insecure,Yes,4,Low,High School,Unemployed,4,Yes,Yes,75,10455,7
+P028,Unstable,Very Insecure,Yes,2,Low,Less than HS,Retired,3,Yes,No,87,10456,9
+P029,Stable,Secure,No,8,High,College,Employed,9,No,No,24,10471,1
+P030,Stable,Insecure,Yes,5,Middle,Some College,Employed,5,No,No,62,10461,4
+P031,Stable,Secure,No,8,High,College,Employed,9,No,No,26,10471,1
+P032,Stable,Insecure,No,5,Middle,Some College,Retired,6,No,No,60,10462,4
+P033,Stable,Secure,No,8,High,College,Employed,9,No,No,24,10471,1
+P034,Unstable,Insecure,Yes,3,Low,High School,Retired,4,Yes,No,80,10454,8
+P035,Stable,Insecure,Yes,5,Middle,Some College,Employed,5,No,No,63,10461,4
+P036,Stable,Secure,No,7,Middle,College,Retired,7,No,No,40,10463,2
+P037,Stable,Secure,No,9,High,Graduate,Employed,10,No,No,20,10471,1
+P038,Unstable,Insecure,Yes,4,Low,High School,Retired,4,Yes,No,78,10454,7
+P039,Stable,Secure,No,8,High,College,Employed,8,No,No,28,10471,1
+P040,Unstable,Very Insecure,Yes,2,Low,Less than HS,Retired,2,Yes,Yes,91,10456,10
+P041,Unstable,Insecure,Yes,4,Low,High School,Unemployed,3,Yes,Yes,80,10455,8
+P042,Unstable,Insecure,Yes,4,Middle,Some College,Unemployed,4,Yes,Yes,72,10452,7
+P043,Unstable,Very Insecure,Yes,2,Low,Less than HS,Retired,2,Yes,No,88,10456,9
+P044,Stable,Insecure,Yes,5,Middle,Some College,Employed,5,No,No,62,10461,4
+P045,Stable,Secure,No,7,Middle,College,Employed,8,No,No,35,10463,2
+P046,Unstable,Insecure,Yes,3,Low,High School,Retired,3,Yes,No,82,10454,8
+P047,Stable,Secure,No,7,Middle,College,Employed,8,No,No,34,10471,2
+P048,Unstable,Very Insecure,Yes,1,Low,Less than HS,Retired,2,Yes,Yes,92,10456,10
+P049,Stable,Secure,No,8,High,College,Employed,9,No,No,22,10471,1
+P050,Stable,Insecure,No,6,Middle,Some College,Retired,6,No,No,56,10462,4
+P051,Homeless,Very Insecure,Yes,1,Low,Less than HS,Unemployed,2,Yes,Yes,90,10455,10
+P052,Unstable,Insecure,Yes,4,Low,High School,Unemployed,3,Yes,Yes,81,10452,8
+P053,Stable,Insecure,No,5,Middle,Some College,Retired,5,No,No,60,10461,5
+P054,Stable,Insecure,Yes,5,Middle,Some College,Employed,5,No,No,64,10462,4
+P055,Unstable,Insecure,Yes,3,Low,High School,Retired,4,Yes,No,79,10454,8
+P056,Stable,Secure,No,8,High,College,Employed,9,No,No,24,10471,1
+P057,Stable,Secure,No,6,Middle,College,Retired,7,No,No,42,10463,2
+P058,Stable,Insecure,No,5,Middle,Some College,Retired,5,No,No,62,10461,4
+P059,Stable,Insecure,Yes,5,Middle,Some College,Employed,5,No,No,64,10462,4
+P060,Unstable,Very Insecure,Yes,2,Low,Less than HS,Retired,2,Yes,Yes,89,10456,10
+P061,Stable,Insecure,No,5,Middle,Some College,Retired,5,No,No,61,10462,4
+P062,Stable,Secure,No,7,Middle,College,Retired,7,No,No,38,10463,2
+P063,Unstable,Insecure,Yes,4,Low,High School,Retired,4,Yes,No,78,10454,8
+P064,Stable,Insecure,Yes,5,Middle,Some College,Employed,5,No,No,65,10461,4
+P065,Stable,Secure,No,7,Middle,College,Retired,7,No,No,40,10463,2
+P066,Stable,Insecure,Yes,5,Middle,Some College,Employed,5,No,Yes,66,10462,5
+P067,Unstable,Very Insecure,Yes,2,Low,Less than HS,Retired,2,Yes,No,88,10456,9
+P068,Stable,Secure,No,6,Middle,Some College,Retired,6,No,No,48,10463,3
+P069,Stable,Secure,No,8,High,College,Employed,9,No,No,22,10471,1
+P070,Stable,Secure,No,9,High,Graduate,Employed,10,No,No,18,10471,1
+P071,Stable,Secure,No,7,Middle,College,Retired,7,No,No,36,10463,2
+P072,Stable,Insecure,No,6,Middle,Some College,Retired,6,No,No,52,10462,3
+P073,Stable,Secure,No,9,High,College,Employed,9,No,No,20,10471,1
+P074,Stable,Secure,No,7,Middle,College,Retired,7,No,No,38,10463,2
+P075,Stable,Insecure,Yes,5,Middle,Some College,Employed,5,No,No,60,10461,4
+P076,Unstable,Insecure,Yes,4,Low,High School,Retired,4,Yes,No,76,10454,7
+P077,Stable,Secure,No,8,High,College,Employed,9,No,No,24,10471,1
+P078,Stable,Secure,No,8,High,College,Employed,8,No,No,28,10471,1
+P079,Stable,Secure,No,7,Middle,College,Retired,7,No,No,36,10463,2
+P080,Stable,Insecure,Yes,5,Middle,Some College,Employed,5,No,No,62,10461,4
